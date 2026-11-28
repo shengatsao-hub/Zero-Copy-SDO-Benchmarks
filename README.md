@@ -1,3 +1,5 @@
+Markdown
+## Citation If you use these benchmarks or reference the Virtual Memory Pipeline (VMP) and SDO-Tokenization architecture, please cite: > Tsao, S. A. (2026). *Zero-Copy Memory Substrates and Structural S-Tokens: Solving the AI Data Ingestion and Context Bottleneck*. Zenodo. https://doi.org/10.5281/zenodo.24553576 ```bibtex @misc{tsao2026zerocopy,   author       = {Tsao, Sheng Augustin},   title        = {Zero-Copy Memory Substrates and Structural S-Tokens: Solving the AI Data Ingestion and Context Bottleneck},   year         = {2026},   publisher    = {Zenodo},   doi          = {10.5281/zenodo.24553576},   url          = {[https://doi.org/10.5281/zenodo.24553576](https://doi.org/10.5281/zenodo.24553576)} } 
 
 # GUDT / VMP & SDO-Tokenization Empirical Benchmarks
 
